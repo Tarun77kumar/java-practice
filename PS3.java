@@ -1,6 +1,5 @@
-package apna;
 import java.util.*;
-public class PS3 {
+public class ps3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int Year  = sc.nextInt();
