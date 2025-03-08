@@ -1,4 +1,3 @@
-package apna;
 import java.util.*;
 public class ps10 {
     public static void main(String[] args){
